@@ -5,43 +5,43 @@
   "Steps": [
     [
       "Unbox and take out elements",
-      "img0.png"
+      "img0.jpg"
     ],
     [
       "I will do the next step",
-      "img1.png"
+      "img1.jpg"
     ],
     [
       "i will do the third step",
-      "img2.png"
+      "img2.jpg"
     ],
     [
       "there is a fourth step",
-      "img3.png"
+      "img3.jpg"
     ],
     [
       "one more step ",
-      "img4.png"
+      "img4.jpg"
     ],
     [
       "and last step",
-      "img5.png"
+      "img5.jpg"
     ]
   ],
   "Conclusion": [
     "",
-    "img10.png"
+    "img10.jpg"
   ],
   "Code": "var i=10;\ni=i+1;\nprint i;",
   "MobileApps": [
     [
-      "name of Image 1. Keep this in App/img folder."
+      "img1.jpg"
     ],
     [
-      "name of Image 1. Keep this in App/img folder."
+      "img2.jpg"
     ],
     [
-      "name of Image 1. Keep this in App/img folder."
+      "img3.jpg"
     ]
   ],
   "Category": "Grove Pi etc.",
